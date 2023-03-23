@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BoneProfileR"]
+	path = BoneProfileR
+	url = https://github.com/cran/BoneProfileR
+	shallow = true
+	registered = true
+[submodule "embryogrowth"]
+	path = embryogrowth
+	url = https://github.com/cran/embryogrowth
+	shallow = true
+	registered = true
+[submodule "HelpersMG"]
+	path = HelpersMG
+	url = https://github.com/cran/HelpersMG
+	shallow = true
+	registered = true
+[submodule "phenology"]
+	path = phenology
+	url = https://github.com/cran/phenology
+	shallow = true
+	registered = true
