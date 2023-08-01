@@ -5,12 +5,12 @@
 [submodule "BoneProfileR"]
 	path = BoneProfileR
 	url = https://github.com/cran/BoneProfileR
-[submodule "embryogrowth"]
-	path = embryogrowth
-	url = https://github.com/cran/embryogrowth
 [submodule "HelpersMG"]
 	path = HelpersMG
 	url = https://github.com/cran/HelpersMG
+[submodule "embryogrowth"]
+	path = embryogrowth
+	url = https://github.com/cran/embryogrowth
 [submodule "phenology"]
 	path = phenology
 	url = https://github.com/cran/phenology
